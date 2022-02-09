@@ -15,3 +15,11 @@ The capstone will build upon the knowledge you have gained in the course in orde
 
 Listing on OpenSea Testnet - https://testnets.opensea.io/assets/unidentified-contract-e6p18jjyof
 EtherScan Rinkeby Ntwk - https://rinkeby.etherscan.io/address/0xf08e99e65d6a304341fbd00fdf21dfc4c73e9afb
+
+`ABI` deployed at rinkeby network - https://rinkeby.etherscan.io/bytecode-decompiler?a=0xf08e99e65d6a304341fbd00fdf21dfc4c73e9afb
+
+Testing Steps -
+1) Open Local ganache
+2) Go to folder eth-contracts
+3) run `truffle test`
+
